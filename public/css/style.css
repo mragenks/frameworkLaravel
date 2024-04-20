@@ -1,0 +1,25 @@
+.isi {
+    color: black;
+    text-align: left;
+    margin-left: 15px;
+}
+
+label {
+    display: flex;
+    padding-left: 20px;
+}
+
+input {
+    border-radius: 5px;
+    margin-left: 15px;
+    text-align: left;
+    align-content: center;
+}
+
+#submitAdd {
+    margin-left: 15px;
+}
+
+/* h1 {
+    color: red;
+} */
